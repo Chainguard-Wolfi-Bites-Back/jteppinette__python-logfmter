@@ -1,3 +1,15 @@
+# 0.0.11 (2025-10-13)
+
+- Fix control character escaping
+- Fix newline escaping
+- Add support for ignored_keys
+- Improve performance by using cached variables
+- Update formatter to format stack_info if available
+- Add support for format-able default values
+- Resolve test warnings
+- Improve external test harness
+- Update format/lint tooling
+
 # 0.0.10 (2025-07-30)
 
 - Improve support for logging dicts via flattened keys
